@@ -48,10 +48,3 @@ The lab will progressively evolve from a basic firewall into a **segmented secur
 - Integrate firewall telemetry with Wazuh
 - Develop SOC-oriented monitoring and investigation workflows
 
-
-                    ┌─────────────┐ ┌─────────────┐
-                    │   Ubuntu    │ │    Kali     │
-                    │ 192.168.1.2 │ │     DMZ     │
-                    │ Management  │ │ Security /  │
-                    │    / SOC    │ │ Testing Host│
-                    └─────────────┘ └─────────────┘
