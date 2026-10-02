@@ -36,7 +36,4 @@
              |     /SOC    |         |             |
              +-------------+         +-------------+
 
-                    CURRENT              PLANNED
-                    =======              =======
-                    LAN                  DMZ
-                    Ubuntu               Kali
+                   
