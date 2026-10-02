@@ -48,29 +48,7 @@ The lab will progressively evolve from a basic firewall into a **segmented secur
 - Integrate firewall telemetry with Wazuh
 - Develop SOC-oriented monitoring and investigation workflows
 
----
 
-# 🏗️ Lab Architecture
-
-```text
-                              INTERNET
-                                  │
-                                  │
-                           VirtualBox NAT
-                                  │
-                                  ▼
-                       ┌──────────────────┐
-                       │     OPNsense     │
-                       │     Firewall     │
-                       │                  │
-                       │ WAN: 10.0.2.x    │
-                       │ LAN: 192.168.1.1 │
-                       │ DMZ: Planned     │
-                       └──────┬───────┬───┘
-                              │       │
-                         LAN  │       │  DMZ
-                              │       │
-                              ▼       ▼
                     ┌─────────────┐ ┌─────────────┐
                     │   Ubuntu    │ │    Kali     │
                     │ 192.168.1.2 │ │     DMZ     │
