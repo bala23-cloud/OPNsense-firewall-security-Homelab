@@ -1,4 +1,4 @@
-# 🛡️ OPNsense Network Security & SOC Lab
+# 🛡️ OPNsense Network Security & SOC HomeLab
 
 > A hands-on, virtualized network security lab focused on **firewall engineering, network segmentation, traffic analysis, security monitoring, and SOC operations** using OPNsense, Kali Linux, Ubuntu, and VirtualBox.
 
