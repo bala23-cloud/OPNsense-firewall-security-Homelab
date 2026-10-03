@@ -84,3 +84,7 @@ Checked:
 - Protocol
 - Action
 - Timestamp
+
+### Screenshot — OPNsense Firewall Live View
+
+![OPNsense Firewall Live View](Module_2_Log_View.png)
